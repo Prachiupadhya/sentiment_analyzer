@@ -1,0 +1,6 @@
+Review,Sentiment Score,Sentiment
+I love this product!,0.625,Positive
+It’s the worst experience ever.,-1.0,Negative
+"Just okay, not too good not too bad.",0.1666666666666667,Positive
+"Fantastic item, works perfectly.",0.7,Positive
+Would not recommend it to anyone.,0.0,Neutral
